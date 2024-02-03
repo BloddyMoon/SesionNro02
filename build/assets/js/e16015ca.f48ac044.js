@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksesion_nro_2=self.webpackChunksesion_nro_2||[]).push([[552],{7616:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

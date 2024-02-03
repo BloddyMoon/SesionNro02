@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-blog-post",
+  "title": "Docker | Script | SSL",
+  "description": "Descripcion",
+  "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/docs/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SSL externa/independiente",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  },
+  "next": {
+    "title": "Linux - Valet",
+    "permalink": "/docs/tutorial-basics/deploy-your-site"
+  }
+}
